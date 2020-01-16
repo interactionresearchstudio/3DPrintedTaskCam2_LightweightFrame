@@ -1,6 +1,7 @@
-# ProbeTools TaskCam Prototype 
+# 3D Printed TaskCam 2 Lightweight Frame
 
-These STL files can be used for 3D printing. [Click here](https://a360.co/2qtXSVf) for editable Fusion 360 files.
+These STL and STEP files can be used for 3D printing. [Click here](https://a360.co/2IT2laG) for editable Fusion 360 files.
+The PDF can be used as a laser cutting template.
 
 ## Terms of Use
  
